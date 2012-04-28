@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#  untitled.py
+#  3body.py
 #  
 #  Copyright 2012 Matthew <matthew@matthew-VirtualBox>
 #-----------------------------------------------------------------------------
